@@ -17,6 +17,17 @@
 - Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione) 
 - Dichiariamo chi ha vinto.
 
+# tools
+- button pari/dispari 
+- prompt n da 1 a 5 
+- fuction n da 1 a 5 PC 
+- getElementById 
+- addEventListener
+- sum +-
+- if/else
+- console.log vincitore
+
+
 
 
 # Consigli del giorno

@@ -1,5 +1,7 @@
 //console.log('test');
 
+console.log('SNACK PALINDROMA');
+
 // Chiedere all’utente di inserire una parola 
 let userWord = prompt('scrivi una parola')
 console.log(userWord);
@@ -53,5 +55,10 @@ if (userWord == reversWord(userWord)) {
 } else{
     console.log('your word is not palindrome');
 }
+
+
+
+console.log('SNACK PARI E DISPARI');
+
 
 
